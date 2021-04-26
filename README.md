@@ -1,4 +1,4 @@
-# Hrushikesh Kachgunde 
+## Hrushikesh Kachgunde 
 
  Hi, I am a Machine learning enthusiast currently deep diving into Neural Networks (ANNs) and CNNs, soon will move into RNNs, NLPs and sequence models. I also have a basic understanding of Tensorflow and wish to make more progress into it.
 
