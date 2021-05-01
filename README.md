@@ -39,8 +39,8 @@ I am also always ready for collaborations on any projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushi11&layout=compact)](https://github.com/Hrushi11/github-readme-stats)
 
-<a href="https://github.com/Hrushi11/Machine-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hrushi11&repo=Machine-Learning" />
+<a href="https://github.com/Hrushi11/Bull-Dozer-Machine-Learning-Model">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hrushi11&repo=Bull-Dozer-Machine-Learning-Model" />
 </a>
 <a href="https://github.com/Hrushi11/Machine-Learning-Advanced-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hrushi11&repo=Machine-Learning-Advanced-Projects" />
