@@ -3,9 +3,8 @@
  Hi, I am a Machine learning enthusiast currently deep diving into Neural Networks (ANNs) and CNNs, soon will move into RNNs, NLPs and sequence models. I also have a basic understanding of Tensorflow and wish to make more progress into it.
 
  I even write blogs to keep track on my progress and also to know every detail of which, and, keep learning new things with sharing the knowledge I gain in the process to everyone. You would even find a repo in my profile about, solutions to some un-expected problems during working on projects. <br>
- 
-Visit My Hashnode Blog At - [Heights For AI](https://heightsforai.hashnode.dev/) <br>
-Visit collaborated blog with other developers at - [Heights For AI](https://hrushi11.github.io/)
+> Visit My Hashnode Blog At - [Heights For AI](https://heightsforai.hashnode.dev/) <br>
+> Visit collaborated blog with other developers at - [Heights For AI](https://hrushi11.github.io/)
 
 To share your knowledege on my blogs please visit this [link](https://github.com/Hrushi11/Hrushi11.github.io) *(Read the `Readme`)*
 
