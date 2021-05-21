@@ -33,6 +33,7 @@ I am also always ready for collaborations on any projects.
 <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit-Learn" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/2x/pycharm.png" alt="PyCharm" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.seekpng.com/png/full/807-8079213_jupyter-sq-text-jupyter-notebook-logo-png.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO6HXTZrXsDZ9QJGhFmHrh_AC13gLlkFG1w&usqp=CAU" alt="OpenCV" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrushi11&show_icons=true&theme=radical)
