@@ -38,14 +38,7 @@ I am also always ready for collaborations on any projects.
 
 ![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrushi11&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushi11&layout=compact)](https://github.com/Hrushi11/github-readme-stats)
 
-<a href="https://github.com/Hrushi11/Bull-Dozer-Machine-Learning-Model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hrushi11&repo=Bull-Dozer-Machine-Learning-Model" />
-</a>
-<a href="https://github.com/Hrushi11/Dog-Breed-Identification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hrushi11&repo=Dog-Breed-Identification" />
-</a>
 
 
 
