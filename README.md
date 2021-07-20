@@ -10,6 +10,8 @@ To share your knowledege on my blogs please visit this [link](https://github.com
 
 I am also always ready for collaborations on any projects. 
 
+![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrushi11&show_icons=true&theme=radical)
+
 ## ✉️ Find me on:
 
 
@@ -36,8 +38,8 @@ I am also always ready for collaborations on any projects.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO6HXTZrXsDZ9QJGhFmHrh_AC13gLlkFG1w&usqp=CAU" alt="OpenCV" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrushi11&show_icons=true&theme=radical)
-
+<!-- ![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrushi11&show_icons=true&theme=radical)
+ -->
 
 
 
