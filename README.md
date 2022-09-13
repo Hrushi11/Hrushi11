@@ -33,7 +33,7 @@ I am also always ready for collaborations on any projects.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PD2yAr4Tt4TG62BatFqSltJmYLO1_DFUqA&usqp=CAU" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-<img src="https://image.flaticon.com/icons/png/128/919/919826.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://icon2.cleanpng.com/20180408/opq/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a96372aeb5.5262838015231655394698.jpg" alt="TensorFlow" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit-Learn" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/2x/pycharm.png" alt="PyCharm" height="40" style="vertical-align:top; margin:4px">
